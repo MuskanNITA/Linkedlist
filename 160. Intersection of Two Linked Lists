@@ -1,6 +1,6 @@
 //Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
 //Here is my C++ code for this problem;
-Approach
+/*Approach
 THE APPROCH HERE USED IS FINDING THE LENGTH OF BOTH LIST AND THEN CHECK WHICH LIST HAS GREATER LENGTH THEN REDUCE THE AND OF LARGER ONE AND MAKE BOTH LIST EQUAL AND THEN RETURN THE LIST AS ANSWER;
 
 Complexity
@@ -9,7 +9,7 @@ O(N)
 Space complexity:
 O(1)
 
-Code
+Code*/
 /**
  * Definition for singly-linked list.
  * struct ListNode {
